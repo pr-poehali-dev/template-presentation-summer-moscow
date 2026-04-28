@@ -24,6 +24,13 @@ export default {
 				oswald: ['Oswald', 'sans-serif'],
 			},
 			colors: {
+				lvm: {
+					red: '#E8200B',
+					'red-dark': '#C41A08',
+					'red-light': '#FF3A24',
+					white: '#FFFFFF',
+					black: '#0A0A0A',
+				},
 				summer: {
 					sun: '#FFB800',
 					orange: '#FF6B35',
